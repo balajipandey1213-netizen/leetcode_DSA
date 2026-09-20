@@ -9,10 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/balajipandey1213-netizen/leetcode_DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/balajipandey1213-netizen/leetcode_DSA/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/balajipandey1213-netizen/leetcode_DSA/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/balajipandey1213-netizen/leetcode_DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/balajipandey1213-netizen/leetcode_DSA/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/balajipandey1213-netizen/leetcode_DSA/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->

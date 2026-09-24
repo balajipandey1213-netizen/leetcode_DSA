@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/balajipandey1213-netizen/leetcode_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/balajipandey1213-netizen/leetcode_DSA/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/balajipandey1213-netizen/leetcode_DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/balajipandey1213-netizen/leetcode_DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -21,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/balajipandey1213-netizen/leetcode_DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/balajipandey1213-netizen/leetcode_DSA/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/balajipandey1213-netizen/leetcode_DSA/tree/master/0704-binary-search) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/balajipandey1213-netizen/leetcode_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
